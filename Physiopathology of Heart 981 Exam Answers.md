@@ -33,6 +33,7 @@
 - Osler Nodes (Fingers)
 - Roth Spot (In Eyes)
 - rise in Rheumatoid Factor  
+
 عوارض واسکولار (رگی):  
 آمبولی شریان اصلی، انفارکت سپتیک ریوی، آنوریسم مایکوتیک، خونریزی درون‌جمجمه‌ای، خونریزی ملتحمه، ضایعات جِین‌وِی (Janeway Lesions)
 
